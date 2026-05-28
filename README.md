@@ -43,10 +43,10 @@
 # 📊 GitHub Stats
 
 <p align="center">
-  
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=zuseto&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zuseto&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=zuseto&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zuseto&layout=compact&theme=tokyonight&hide_border=true&border_radius=10"/>
 
 </p>
 
@@ -56,17 +56,7 @@
 
 <p align="center">
 
-<img width="70%" src="https://streak-stats.demolab.com?user=zuseto&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=zuseto&theme=tokyo-night&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=zuseto&theme=tokyonight&hide_border=true&border_radius=10"/>
 
 </p>
 
