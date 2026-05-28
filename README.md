@@ -15,18 +15,30 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=220&section=header&text=Zuseto&fontSize=50&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
-# 🌟 About Me
+# 🌑 About Me
 
 <img align="right" alt="coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-- 🔥 Passionate about Design & Technology
-- 🎨 Industrial Designer
-- 💻 Frontend Development Learner
-- 🤖 AI Prompt Engineer
-- 🌏 Based in Indonesia
-- 🚀 Building Creative Digital Projects
+```console
+> initializing profile...
 
-<br><br><br>
+Name        : Zuseto
+Role        : Creative Developer
+Status      : Online
+Focus       : Design • AI • Systems
+Location    : Indonesia
+Mindset     : Build. Break. Create. Repeat.
+
+> system ready...
+````
+
+* ⚡ Building digital experiences with futuristic aesthetics
+* 🧠 Exploring AI systems and creative technology
+* 💻 Turning ideas into interactive products
+* 🚀 Passionate about design, automation, and innovation
+* 🌌 Living between creativity and code
+
+<br>
 
 ---
 
