@@ -1,4 +1,3 @@
-```md
 <h1 align="center">Hi 👋, I'm Zuseto</h1>
 <h3 align="center">🚀 Industrial Designer | Creative Developer | AI Prompt Engineer</h3>
 
@@ -108,4 +107,3 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=120&section=footer"/>
 </p>
-```
