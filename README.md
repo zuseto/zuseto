@@ -30,11 +30,27 @@
 
 ---
 
-# 🛠 Tech Stack
+# ⚡ Tech Stack
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,figma,github,vscode,ps,ai,pr&perline=5"/>
+<img src="https://readme-typing-svg.demolab.com/?lines=Cyber+Infrastructure;Encrypted+Framework;Stealth+Developer;System+Override&center=true&width=600&height=45&color=ff003c&pause=1000&size=25"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://i.gifer.com/7VE.gif" width="450"/>
+
+</p>
+
+<p align="center">
+
+```console
+root@zuseto:~# access denied
+root@zuseto:~# unauthorized user detected
+root@zuseto:~# encryption enabled
+````
 
 </p>
 
