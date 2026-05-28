@@ -1,124 +1,65 @@
-<h1 align="center">Hi 👋, I'm Zuseto</h1>
+# Hi there, I'm Zulhan Sentoso 👋
 
-<h3 align="center">
-🚀 Industrial Designer | Creative Developer | AI Prompt Engineer
-</h3>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=zuseto&color=007acc&style=flat-shining" alt="Views Counter" />
+</p>
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com/?lines=Industrial+Designer;Creative+Developer;AI+Prompt+Engineer;Welcome+To+My+GitHub!&center=true&width=600&height=50&color=00F7FF&vCenter=true&pause=1000&size=30"/>
+### 👨‍💻 About Me
+A passionate **Full-Stack Developer** and **Digital Entrepreneur** focused on building smart automated solutions, scalable web platforms, and exploring AI-driven integrations. I love turning complex logic into clean, efficient, and functional code with a minimalist aesthetic.
+
+- 🚀 **Current Focus:** Developing interactive web applications, API integrations, and robust automation bots.
+- 💡 **Interests:** Web Automation, AI tools, Cloud Server (VPS) Management, and High-Value Digital Solutions.
+- 🧠 **Tech Philosophy:** Clean code, high performance, and seamless user experience.
+- ⚙️ **Vibe:** Minimalist design, automated workflows, and continuous optimization.
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+#### 🌐 Frontend Development
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+</p>
+
+#### ⚙️ Backend, Automation & Cloud
+<p align="left">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="NodeJS" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Google%20Apps%20Script-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="GAS" />
+  <img src="https://img.shields.io/badge/Linux%20/%20VPS-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+</p>
+
+#### 🧰 Tools & Frameworks
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
 </p>
 
 ---
 
+### 📊 GitHub Statistics
+
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=220&section=header&text=Zuseto&fontSize=50&fontColor=ffffff&animation=fadeIn"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=zuseto&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zuseto&layout=compact&theme=tokyonight" alt="Top Languages" height="180" />
 </p>
 
-# 🌟 About Me
-
-<img align="right" alt="coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
-- 🔥 Passionate about Design & Technology
-- 🎨 Industrial Designer
-- 💻 Frontend Development Learner
-- 🤖 AI Prompt Engineer
-- 🌏 Based in Indonesia
-- 🚀 Building Creative Digital Projects
-
-<br><br><br>
-
----
-
-# 🛠 Tech Stack
-
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,figma,github,vscode,ps,ai,pr&perline=5"/>
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zuseto&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=zuseto&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zuseto&layout=compact&theme=tokyonight&hide_border=true&border_radius=10"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=zuseto&theme=tokyonight&hide_border=true&border_radius=10"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophy
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=zuseto&theme=tokyonight&no-frame=true&row=1&column=6"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=zuseto&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
-# 🌐 Connect With Me
-
-<p align="center">
-
-<a href="https://github.com/zuseto">
-<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://instagram.com/zuseto">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-# 👀 Profile Views
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=zuseto&label=Profile%20Views&color=blueviolet&style=flat"/>
-
-</p>
-
----
-
-# ⚡ Random Dev Quote
-
-<p align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-
-</p>
-
----
-
-<p align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=120&section=footer"/>
-
+### 🤝 Connect with Me
+<p align="left">
+  <a href="mailto:your-email@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://linkedin.com/in/your-linkedin" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 </p>
