@@ -36,7 +36,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" height="180"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=transparent&hide_border=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zuseto&layout=compact&theme=transparent&hide_border=true" height="180"/>
 
 </p>
 
