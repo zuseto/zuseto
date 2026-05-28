@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Zuseto</h1>
 
 <h3 align="center">
-🚀 Industrial Designer | Creative Developer | AI Prompt Engineer
+🚀 Industrial Designer | Creative Developer | AI Prompt Engineer | Blogger
 </h3>
 
 <p align="center">
